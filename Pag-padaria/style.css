@@ -1,0 +1,46 @@
+body{
+    background-color: #f4f0e5;
+    margin: 0;
+    font-family: tahoma;
+}
+.logo{
+    width: 200px;
+}
+.doces,img{
+    width: 800px;
+}
+div{
+    margin: 0 auto;
+    text-align:center;
+    width: 800px;
+    line-height: 24px;
+    color: white;
+    font-family: tahoma;
+    line-height: 32px;
+}
+.treeH{
+    background-color: rgb(230, 111, 20);
+}
+.twodescricao{
+border-top:2px solid rgb(230, 111, 20);
+}
+a{
+    color: rgb(82, 39, 39);
+    font-weight: bold;
+}
+span{
+    font-weight: bold;
+}
+h2{
+    color: rgb(254, 185, 9);
+}
+
+h3{
+    font-size: 24px;
+}
+h4{
+    font-size: 22px;
+}
+.fourcont, h1{
+    color: black;
+}
